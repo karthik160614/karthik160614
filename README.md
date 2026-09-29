@@ -55,7 +55,7 @@ I'm open to **Software Engineering internships, opportunities, and collaboration
 <a>
 <a href="https://www.linkedin.com/in/kelli-karthik-5489122b9"><img src="https://img.shields.io/badge/LinkedIn-KELLI%20KARTHIK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/karthik160614"><img src="https://img.shields.io/badge/GitHub-karthik160614-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:karthikkelli50@gmail.com"><img src="https://img.shields.io/badge/Email-KELLI%20KARTHIK-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=karthikkelli50@gmail.com"><img src="https://img.shields.io/badge/Email-KELLI%20KARTHIK-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </a>
 </p>
 
