@@ -31,7 +31,7 @@ I'm a CSE student at Parul University, focused on Core Computer Science and Soft
 
 **[Movie Ratings](https://vercel.com/karthik160614s-projects/movie-ratings/Gsyt7c815U1u7pGbBhMZYH2Aq3rL)** 🎬 A web application for exploring and rating movies.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Movie%20Ratings-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-ratings-mk7npqbp3-karthik160614s-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Movie%20Ratings-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-ratings-inky.vercel.app/)
 
 Alongside these, I'm practicing DSA daily.
 
